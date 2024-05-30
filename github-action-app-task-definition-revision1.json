@@ -8,7 +8,7 @@
             "memory": 1024,
             "portMappings": [
                 {
-                    "name": "github-action-container-80-tcp",
+                    "name": "github-action-container-8080-tcp",
                     "containerPort": 8080,
                     "hostPort": 8080,
                     "protocol": "tcp",
